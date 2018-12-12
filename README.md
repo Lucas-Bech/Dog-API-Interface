@@ -4,7 +4,7 @@ Webpage interface to the API: https://dog.ceo/dog-api/
 Using:
 - HTML
 - CSS
-- Javascript
+- JavaScript
 - jQuery via CDN
 - AJAX via CDN
 - PHP
