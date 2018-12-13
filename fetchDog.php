@@ -10,7 +10,7 @@ class DogFetcher
     }
 
     private function getURL() {
-      if (isset($_GET['breed'])) {
+      if (isset($_GET['breed']) && $_GET['breed'] != '') {
           $breed = filter_var($_GET['breed'], FILTER_SANITIZE_STRING);
           $this->url = 'https://dog.ceo/api/breed/' . $breed . '/images/random';
       } else {
