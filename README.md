@@ -6,5 +6,5 @@ Using:
 - CSS
 - JavaScript
 - jQuery via CDN
-- AJAX via CDN
+- AJAX
 - PHP
