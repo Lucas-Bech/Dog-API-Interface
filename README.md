@@ -8,3 +8,5 @@ Using:
 - jQuery via CDN
 - AJAX
 - PHP
+
+Hosted: http://dog-api-interface.epizy.com/
