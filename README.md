@@ -1,5 +1,5 @@
 # Dog-API-Interface
-Webpage interface to the API: https://dog.ceo/dog-api/
+Web interface to the API: https://dog.ceo/dog-api/
 
 Using:
 - HTML
